@@ -14,6 +14,8 @@
 6. **Notifications**  
    - Email/in-app alerts for bookings, payments, cancellations.
 7. **Admin Dashboard**  
+
    - Manage users, listings, bookings, payments.
 
-![Backend Features](backend-features.png)
+
+
